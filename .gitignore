@@ -1,0 +1,8 @@
+# Large Model Files - DO NOT UPLOAD 
+*.pt 
+model/ 
+ 
+# Dataset Files - DO NOT UPLOAD 
+components_data_clean/ 
+components_data_uncropped/ 
+results/ 
